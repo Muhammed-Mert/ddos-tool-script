@@ -1,5 +1,5 @@
 #Debain, Ubuntu:
-! sudo apt-get install git golang perl python3 python2 python3-pip nodejs npm -y
+! sudo apt-get install git golang perl python3 python2 python3-pip nodejs npm
 ! git clone https://github.com/hoaan1995/ZxCDDoS/
 ! cd ZxCDDoS/
 ! npm i requests
